@@ -249,3 +249,27 @@ h5 {
     display: flex;
     gap: 22px;
 }
+.sidenav button {
+    background-color: #FFA343;
+    height: 63.43;
+    width: 233.19px;
+    border-radius: 10px;
+}
+.sidenav a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.sidenav h3{
+    height: 32.25px;
+    width: 182.94px;
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+.header{
+    width: 1337px;
+    height: 317;
+}
