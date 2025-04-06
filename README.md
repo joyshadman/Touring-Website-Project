@@ -32,8 +32,6 @@ Tour's-Project/
 │   └── responsive.css  # Media queries for responsive design
 ├── images/             # Directory for images
 │   ├── ...
-├── js/                 # Optional JavaScript files for interactivity
-│   └── script.js
 └── README.md           # Project documentation
 ```
 
