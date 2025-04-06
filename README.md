@@ -60,6 +60,3 @@ Tour's-Project/
 
 *   This project utilizes HTML and CSS and may incorporate open-source images or libraries, with proper attribution where applicable.
 
-## License
-
-[Specify the project license, e.g., MIT License]
