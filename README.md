@@ -7,7 +7,7 @@ This project is a website built using HTML and CSS, designed to showcase tour pa
 ## Preview 
 
 
-🚀 Live Demo:
+🚀 Live Demo: https://joyshadman.github.io/Tour-s-Project/
 
 
 ## Features
