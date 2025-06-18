@@ -4,6 +4,12 @@
 
 This project is a website built using HTML and CSS, designed to showcase tour packages and provide information for potential travelers. It offers an interactive and visually appealing platform for exploring different destinations and booking tours.
 
+## Preview 
+
+
+🚀 Live Demo:
+
+
 ## Features
 
 *   **Homepage:** An engaging landing page with featured tours, attractive imagery, and a clear call to action.
@@ -16,6 +22,7 @@ This project is a website built using HTML and CSS, designed to showcase tour pa
 *   **Image Gallery:**  High-quality images to showcase the beauty of each destination.
 *   **Testimonials/Reviews:**  Displays customer testimonials to build trust and credibility.
 *   **Footer:** Contact information, social media links, and copyright details.
+
 
 ## Technologies Used
 
@@ -35,26 +42,6 @@ Tour's-Project/
 └── README.md           # Project documentation
 ```
 
-## How to Use
-
-1.  Clone the repository: `git clone [repository URL]`
-2.  Navigate to the project directory: `cd Tour's-Project`
-3.  Open `index.html` in your web browser.
-
-## Customization
-
-*   **Content:** Modify the HTML files to update the tour details, destination descriptions, and other content.
-*   **Styling:**  Edit the `style.css` file to change the website's appearance, including colors, fonts, and layout.  Use `responsive.css` to adjust the design for different screen sizes.
-*   **Images:** Replace the placeholder images in the `images/` directory with your own.
-*   **Interactivity:** Add JavaScript code to the `script.js` file to implement interactive features such as form validation, animations, or dynamic content updates.
-
-## Future Enhancements
-
-*   **Backend Integration:** Integrate with a backend database to manage tour data and bookings.
-*   **Payment Gateway Integration:**  Enable online payments through a payment gateway.
-*   **User Authentication:**  Implement user registration and login for personalized experiences.
-*   **Advanced Search Filters:**  Add more advanced search and filtering options for tour listings.
-*   **CMS Integration:**  Integrate with a content management system (CMS) for easy content updates.
 
 ## Credits
 
